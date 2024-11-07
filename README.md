@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Hussein Gamal </h1>
-<h3 align="center">Intern AI/Data Analyst @Botit | Senior CS Student majoring in Data Science with a minor in Software Engineering at GIU</h3>
+<h3 align="center">Data Engineer @Botit | Computer Science Graduate from GIU</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdjaTR6Y2d2eHVkbHNxdGYydGlwMnNid3AyZXdxamExZG5ibzA1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/58OujxlE7e19Mjv0gj/giphy.webp">
