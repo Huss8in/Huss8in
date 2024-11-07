@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huss8in&label=Profile%20views&color=0e75b6&style=flat" alt="huss8in" /> </p>
 
-- 🔭 I’m currently working for **Botit APP** as an 'AI/Data Analyst'
+- 🔭 I’m currently working for **Botit APP** as a 'Data Engineer'
   
 - 📫 How to reach me **husseingamal189@gmail.com**
   
